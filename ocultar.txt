@@ -1,0 +1,1 @@
+Arquivo a ser ocultado pelo "ocultador_de_arquivos.py"
