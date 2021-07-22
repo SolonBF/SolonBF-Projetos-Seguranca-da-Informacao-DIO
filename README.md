@@ -1,6 +1,6 @@
 # Exercícios do curso de Segurança da informação da  [DIO](https://digitalinnovation.one/)
 
-##Conteúdo:
+## Conteúdo:
 - Gerador de Hashes
 - Gerador de wordlists
 - Web Scraping
@@ -9,7 +9,7 @@
 - Ocultador de arquivos
 - Verificador de IPs
 
-##Bibliotecas utilizadas:
+## Bibliotecas utilizadas:
 - phonenumbers
 - ctypes
 - webbrowser
